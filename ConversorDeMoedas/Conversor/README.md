@@ -220,3 +220,5 @@ public class Menu {
     }
 }
 ```
+### Exemplo pelo terminal:
+![Exemplo de saida no terminal](https://github.com/sertaoboy/Conversor-ONE/blob/main/imagens/image.png)
